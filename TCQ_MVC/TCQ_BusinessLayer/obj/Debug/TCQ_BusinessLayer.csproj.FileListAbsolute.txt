@@ -1,0 +1,12 @@
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\bin\Debug\TCQ_BusinessLayer.dll
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\bin\Debug\TCQ_BusinessLayer.pdb
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\obj\Debug\TCQ_BusinessLayer.csprojAssemblyReference.cache
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\obj\Debug\TCQ_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\obj\Debug\TCQ_BusinessLayer.dll
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\obj\Debug\TCQ_BusinessLayer.pdb
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\bin\Debug\TCQ_BusinessLayer.dll.config
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\bin\Debug\EntityFramework.dll
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\bin\Debug\EntityFramework.xml
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\TCQ_ajsn\TCQ_MVC\TCQ_BusinessLayer\obj\Debug\TCQ_BusinessLayer.csproj.CopyComplete

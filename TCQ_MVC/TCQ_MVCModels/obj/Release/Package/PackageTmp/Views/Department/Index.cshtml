@@ -1,0 +1,19 @@
+﻿@model IEnumerable<TCQ_MVCModels.Models.Department>
+@using TCQ_MVCModels.Models;
+
+<div style="font-family:Arial">
+    @{
+        ViewBag.Title = "Departments List";
+    }
+
+    <h2>Departments List</h2>
+    <ul>
+        @foreach (Department department in Model)
+        {
+            <li>
+                @Html.ActionLink(department.Name, "Index", "Employee",
+        new { eid = department.ID },null)
+        </li>
+    }
+    </ul>
+</div>

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<TCQ_MVCEF.Models.City>
+
+@{
+    ViewBag.Title = "Cities";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Cities</h2>
+@using (Html.BeginForm())
+{
+    @Html.EditorForModel()
+    <br />
+    <input type="submit" value="Submit"/>
+}
+

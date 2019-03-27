@@ -1,0 +1,13 @@
+﻿@model IEnumerable<TCQ_MVCEF.Models.Employee>
+
+@{
+    ViewBag.Title = "PartialIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>PartialIndex</h2>
+@foreach (var item in Model)
+{
+    @Html.Partial("_Employee",item)
+    { Html.RenderPartial("_Employee", item); }
+}

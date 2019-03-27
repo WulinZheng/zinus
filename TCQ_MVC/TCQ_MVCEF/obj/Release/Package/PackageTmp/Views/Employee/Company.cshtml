@@ -1,0 +1,21 @@
+﻿@model TCQ_MVCEF.Models.Company
+
+@{
+    ViewBag.Title = "Company";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Company</h2>
+@using (Html.BeginForm())
+{
+    foreach (var department in Model.Departments)
+    {
+        @Html.RadioButtonFor(m => m.SelectDepartment, department.Id,
+       (department.IsSelected.HasValue && department.IsSelected.Value)?new {@checked="checked" }:null) @department.Name
+        <br />
+    }
+    <br />
+    <br />
+    <input type="submit" value="Submit" />
+}
+

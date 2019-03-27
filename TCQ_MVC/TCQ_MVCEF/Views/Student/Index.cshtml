@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script type="text/javascript">
+    function ClearResult() {
+        $("#divStudents").empty();
+    }
+    function CountRows() {
+        alert(($("#StudentTable tr").length - 1) + " rows retrieved");
+    }
+    
+</script>
+
+
+<h2>Student</h2>
+
+@Ajax.ActionLink("All", "All", new AjaxOptions() {
+    HttpMethod="GET",
+    UpdateTargetId= "divStudents",
+    InsertionMode=InsertionMode.Replace,
+    LoadingElementId= "divloading",
+    OnBegin= "ClearResult",
+    OnSuccess="CountRows",
+    LoadingElementDuration=3000
+
+})
+<span style="color:blue;">|</span>
+@Ajax.ActionLink("Top3", "Top3", new AjaxOptions() {
+    HttpMethod="GET",
+    UpdateTargetId= "divStudents",
+    InsertionMode=InsertionMode.Replace,
+    LoadingElementId = "divloading",
+    OnBegin = "ClearResult",
+    OnComplete = "CountRows",
+
+})
+<span style="color:blue;">|</span>
+@Ajax.ActionLink("Bottom3", "Bottom3", new AjaxOptions() {
+    HttpMethod="GET",
+    UpdateTargetId= "divStudents",
+    InsertionMode=InsertionMode.Replace,
+    LoadingElementId = "divloading",
+    OnBegin = "ClearResult",
+    OnSuccess = "CountRows"
+})
+
+<div id="divloading" style="display:none;">
+    <img src="~/Images/spinner.gif" />
+</div>
+<div id="divStudents">
+
+</div>
+

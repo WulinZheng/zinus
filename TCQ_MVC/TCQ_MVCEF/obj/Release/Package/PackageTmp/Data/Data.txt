@@ -1,0 +1,9 @@
+﻿
+Employee -> Index -> OnActionExecuting 	 - 3/21/2019 3:58:57 PM
+Employee -> Index -> OnActionExecuted 	 - 3/21/2019 3:59:03 PM
+
+Employee -> Index -> OnActionExecuting 	 - 3/21/2019 3:59:56 PM
+Employee -> Index -> OnActionExecuted 	 - 3/21/2019 4:00:02 PM
+Employee -> Index -> OnResultExecuting 	 - 3/21/2019 4:00:02 PM
+Employee -> Index -> OnResultExecuted 	 - 3/21/2019 4:00:07 PM
+----------------------------------------

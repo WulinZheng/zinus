@@ -1,0 +1,263 @@
+﻿
+Employee -> Index -> OnActionExecuting 	 - 3/21/2019 3:58:57 PM
+Employee -> Index -> OnActionExecuted 	 - 3/21/2019 3:59:03 PM
+
+Employee -> Index -> OnActionExecuting 	 - 3/21/2019 3:59:56 PM
+Employee -> Index -> OnActionExecuted 	 - 3/21/2019 4:00:02 PM
+Employee -> Index -> OnResultExecuting 	 - 3/21/2019 4:00:02 PM
+Employee -> Index -> OnResultExecuted 	 - 3/21/2019 4:00:07 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 10:53:59 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 10:54:05 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 10:54:05 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 10:54:10 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:00:20 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:00:23 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:00:23 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:00:23 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:16:19 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:16:22 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:16:22 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:16:23 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:17:25 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:17:32 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:17:32 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:17:32 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:18:48 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:18:54 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:18:54 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:18:54 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:19:07 AM
+
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:19:08 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:19:10 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:19:10 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:19:10 AM
+----------------------------------------Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:19:11 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:19:11 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:19:11 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:19:15 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:19:18 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:19:18 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:19:19 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:19:29 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:19:32 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:19:32 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:19:32 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:20:17 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:20:20 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:20:20 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:20:20 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:21:53 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:21:59 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:21:59 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:22:02 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:22:24 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:22:27 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:22:28 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:22:28 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:23:05 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:23:11 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:23:11 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:23:14 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:23:28 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:23:31 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:23:31 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:23:31 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:25:09 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:25:15 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:25:15 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:25:19 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:25:50 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:25:53 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:25:53 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:25:53 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:26:01 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:26:04 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:26:04 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:26:04 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:26:07 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:26:10 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:26:10 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:26:10 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:26:12 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:26:15 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:26:15 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:26:15 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:27:15 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:27:20 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:27:20 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:27:23 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:27:35 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:27:38 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:27:38 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:27:38 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/22/2019 11:28:29 AM
+Employee -> Index -> OnActionExecuted 	 - 3/22/2019 11:28:33 AM
+Employee -> Index -> OnResultExecuting 	 - 3/22/2019 11:28:33 AM
+Employee -> Index -> OnResultExecuted 	 - 3/22/2019 11:28:33 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:06:46 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:06:51 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:06:51 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:06:56 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:09:20 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:09:24 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:09:24 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:09:26 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:13:04 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:13:07 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:13:07 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:13:10 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:13:50 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:13:53 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:13:53 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:13:56 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:21:26 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:21:30 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:21:30 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:21:34 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:31:26 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:31:30 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:31:30 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:31:33 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:31:42 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:31:45 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:31:45 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:31:45 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:33:17 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:33:20 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:33:20 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:33:20 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:33:22 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:33:25 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:33:25 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:33:25 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:35:15 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:35:18 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:35:18 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:35:21 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:35:27 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:35:30 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:35:30 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:35:30 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 9:37:25 AM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 9:37:29 AM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 9:37:29 AM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 9:37:32 AM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/25/2019 2:23:12 PM
+Employee -> Index -> OnActionExecuted 	 - 3/25/2019 2:23:18 PM
+Employee -> Index -> OnResultExecuting 	 - 3/25/2019 2:23:18 PM
+Employee -> Index -> OnResultExecuted 	 - 3/25/2019 2:23:23 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:01:49 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:01:56 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:01:56 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:02:05 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:02:18 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:02:21 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:02:21 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:02:21 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:02:29 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:02:32 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:02:32 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:02:32 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:02:44 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:02:47 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:02:47 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:02:47 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:02:49 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:02:53 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:02:53 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:02:53 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:17:12 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:17:19 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:17:19 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:17:31 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:19:09 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:19:16 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:19:16 PM
+
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:20:13 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:20:20 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:20:20 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:20:25 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:20:32 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:20:35 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:20:35 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:20:35 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:21:33 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:21:36 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:21:36 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:21:36 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:59:18 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:59:22 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:59:22 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:59:23 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:59:29 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:59:32 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:59:32 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:59:32 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:59:39 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:59:43 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:59:43 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:59:43 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:59:50 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 2:59:53 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 2:59:53 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 2:59:53 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 2:59:57 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 3:00:00 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 3:00:00 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 3:00:00 PM
+----------------------------------------
+Employee -> Index -> OnActionExecuting 	 - 3/27/2019 3:43:22 PM
+Employee -> Index -> OnActionExecuted 	 - 3/27/2019 3:43:30 PM
+Employee -> Index -> OnResultExecuting 	 - 3/27/2019 3:43:30 PM
+Employee -> Index -> OnResultExecuted 	 - 3/27/2019 3:43:34 PM
+----------------------------------------

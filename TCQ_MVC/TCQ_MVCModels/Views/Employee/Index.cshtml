@@ -1,0 +1,15 @@
+﻿@model IEnumerable<TCQ_MVCModels.Models.Employee>
+@using TCQ_MVCModels.Models;
+@{
+    ViewBag.Title = "Index";
+}
+<div style="font-family:Arial">
+    <h2>Employee List</h2>
+    <ul>
+        @foreach (Employee employee in Model)
+        {
+            <li>@Html.ActionLink(employee.Name, "Details", new { id = employee.EmployeeId })</li>
+        }
+    </ul>
+
+</div>

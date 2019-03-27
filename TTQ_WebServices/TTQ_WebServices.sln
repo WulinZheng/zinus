@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTQ_WebServices", "TTQ_WebServices\TTQ_WebServices.csproj", "{58A30993-5C99-4B3F-98D0-6830B490E825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCQ_CalculatorWebApplication", "CalculatorWebApplication\TCQ_CalculatorWebApplication.csproj", "{9C0B7AA2-CC77-45D2-ADEA-2BDDE437A58D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{58A30993-5C99-4B3F-98D0-6830B490E825} = {58A30993-5C99-4B3F-98D0-6830B490E825}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCQ_SQL", "TCQ_SQL\TCQ_SQL.csproj", "{6FBD6EF0-A807-433D-8558-38C25547CDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A30993-5C99-4B3F-98D0-6830B490E825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A30993-5C99-4B3F-98D0-6830B490E825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A30993-5C99-4B3F-98D0-6830B490E825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A30993-5C99-4B3F-98D0-6830B490E825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0B7AA2-CC77-45D2-ADEA-2BDDE437A58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0B7AA2-CC77-45D2-ADEA-2BDDE437A58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0B7AA2-CC77-45D2-ADEA-2BDDE437A58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0B7AA2-CC77-45D2-ADEA-2BDDE437A58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBD6EF0-A807-433D-8558-38C25547CDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBD6EF0-A807-433D-8558-38C25547CDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBD6EF0-A807-433D-8558-38C25547CDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBD6EF0-A807-433D-8558-38C25547CDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA1F208A-ED72-43C7-8E52-00F731E1C4D0}
+	EndGlobalSection
+EndGlobal
