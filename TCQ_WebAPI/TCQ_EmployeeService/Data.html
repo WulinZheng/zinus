@@ -68,7 +68,7 @@
                 localStorage.removeItem("accessToken");
                 window.location.href = "Login.html";
             });
-            $("#errorModal").on("hidden.bs.modal", function () {
+            $("#errorModal").on("hidden.bs.modal", function () {//sau khi tat roi -> function 
                 window.location.href = "Login.html";
             });
 
@@ -97,7 +97,7 @@
 
                     },
                     error: function (jqXHR) {
-                        if (jqXHR.status == "401") {
+                        if (jqXHR.status == "401") {//unauthorization
                             $("#errorModal").modal("show");
                         }
                         else {

@@ -42,7 +42,7 @@ function signupExternalUser(accessToken,provider) {
             "Authorization": "Bearer " + accessToken
         },
         success: function () {
-            window.location.href = "/api/Account/ExternalLogin?provider=" + provider+"&response_type=token&client_id=self&redirect_uri=http%3A%2F%2Flocalhost%3A86%2FLogin.html&state=K9x8sQJewUXHN5oiyhFNqCaWBf478b3KGZjvj2lCgHI1";
+            window.location.href = "/api/Account/ExternalLogin?provider=" + provider +"&response_type=token&client_id=self&redirect_uri=http%3A%2F%2Flocalhost%3A58658%2FLogin.html&state=K9x8sQJewUXHN5oiyhFNqCaWBf478b3KGZjvj2lCgHI1";
         },
     });
 }

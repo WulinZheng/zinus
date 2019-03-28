@@ -11,7 +11,6 @@ using Owin;
 using TCQ_EmployeeService.Providers;
 using TCQ_EmployeeService.Models;
 using Microsoft.Owin.Security.Facebook;
-using TCQ_EmployeeService.Facebook;
 
 namespace TCQ_EmployeeService
 {

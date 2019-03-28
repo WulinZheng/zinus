@@ -9,7 +9,7 @@ using TCQ_EmployeeService.Models;
 namespace TCQ_EmployeeService.Controllers
 {
     [RoutePrefix("api/student")]
-    public class StudentController : ApiController
+    public class StudentV1Controller : ApiController
     {
         static List<Student> students = new List<Student>()
         {

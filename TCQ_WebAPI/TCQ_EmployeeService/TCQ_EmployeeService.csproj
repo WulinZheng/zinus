@@ -215,8 +215,9 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\EmployeeController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\StudentController.cs" />
+    <Compile Include="Controllers\StudentV1Controller.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Custom\CustomControllerSelector.cs" />
     <Compile Include="Employee.cs">
       <DependentUpon>EmployeeDataModel.tt</DependentUpon>
     </Compile>
@@ -235,7 +236,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>EmployeeDataModel.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Facebook\FacebookBackChannelHandler.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

@@ -1,0 +1,16 @@
+﻿ Email + chatwork :tcquyen@vitenet.net/acxz123c50
+SVN :  tcquyen/acxz123c50
+https://192.168.0.236:81
+
+ name [RegularExpression(@"^(([A-za-z]+[\s]{1}[A-za-z]+)|([A-Za-z]+))$")]
+
+RegularExpression(@"^[\w-\._\+%]+@(?:[\w-]+\.)+[\w]{2,6}$", ErrorMessage = "Please enter a valid email address")]
+
+http://localhost:58658/api/account/ExternalLogins?returnUrl=%2F&generateState=true
+
+https://graph.facebook.com/v2.4/me?fields=id,email&access_token=ABC
+
+JSON({
+HasRegistered:false,
+Email:
+})
